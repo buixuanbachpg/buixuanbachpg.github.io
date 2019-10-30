@@ -1,0 +1,84 @@
+
+/* (min-width:992px) (max-width:1199px) */
+@media only screen and (max-width:1199px){  
+  .ulockd-srvc-details { padding-left: 0 !important; padding-right: 25% !important;}
+}
+/* (min-width:768px) (max-width:991px) */
+@media only screen and (max-width:991px){
+  /* Home slider rtl */ 
+}
+/* (min-width:480px) (max-width:767px) */
+@media only screen and (max-width:767px){
+  .ulockd-contact-info .ulockd-icon {float: none !important;}
+  .ulockd-ohour-info .ulockd-icon {float: none !important;}
+  /* home slider start */
+  /* Service icon */
+  .ulockd-srvc-column .ulockd-srv-icon {left: 0 !important;}
+  .ulockd-srvc-details { padding-left: 0 !important; padding-right: 15% !important;}
+}
+@media only screen and (max-width:630px){
+
+}
+/* (min-width:361px) (max-width:479px) */
+@media only screen and (max-width:479px){
+  /* Main Slider Start*/
+  .ulockd-srvc-details { padding-left: 0 !important; padding-right: 18% !important;}
+}
+@media only screen and (max-width:400px){
+  /* Main Slider Start*/
+  .ulockd-srvc-details { padding-left: 0 !important; padding-right: 21% !important;}
+}
+@media only screen and (max-width:320px){
+  .ulockd-srvc-details { padding-left: 0 !important; padding-right: 25% !important;}  
+}
+
+/* Home Slider One */
+  .ulockd-ohour-info .ulockd-icon {
+    margin-left: 16px;
+    margin-right: 0;
+  }
+  .ulockd-ffact-two .ulockd-icon-let {
+    margin-left: 30px;
+    margin-right: 0 !important;
+  }
+  .ulockd-service-fstcol::before {
+    border: none !important;
+  }
+  .ulockd-fstabt-list > li {
+    margin-left: 0 !important;
+    margin-right: 40px;
+  }
+  .ulockd-fstabt-list > li {    
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+  }
+  .ulockd-fstabt-list > li:hover{
+    color: #f95b5b;
+    cursor: pointer;
+    padding-left: 0 !important;
+    padding-right: 15px !important;
+  }
+  .ulockd-srvc-details {
+    padding-right: 21%;
+    padding-left: 0 !important;
+  }
+  .ulockd-frst-divider-l2::after {
+    z-index: -1 !important;
+  }
+  .ulockd-testimonial-carousel .owl-controls {
+    
+  }
+  /* Footer navigation */
+  .ulockd-footer::before {
+    left: 0 !important;
+  }
+  .ulockd-footer-qlink .list-unstyled li span{
+    padding-left: 10px;
+  }
+  .ulockd-footer-qlink .list-unstyled li a:hover {
+    padding-left: 0;
+    padding-right: 10px;
+  }

@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+body {
+  background-color: #d3d3d3 !important;
+  margin: 0 auto;
+  overflow-x: hidden !important;
+  width: 1200px;
+}
+.ulockd-header-middle,
+.ulockd-department,
+.ulockd-team {
+	background-color: #fff;
+}
+.ulockd-main-slider .caption {
+	padding: 11% 16% !important;
+}
+.ulockd-main-slider .caption.style2 {
+	padding: 13% 12% !important;
+}
+.ulockd-overlay-icon a, .ulockd-overlay-icon-l2 a {
+	padding: 8px 12px;
+}
+.ulockd-overlay-icon-l2 {
+	top: 60%;
+}
+.ulockd-footer::before {
+	width: 27% !important;
+}
+.ulockd-footer-font-icon a {
+	padding: 7px 10px;
+}

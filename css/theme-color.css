@@ -1,0 +1,96 @@
+/* Theme Color Default  #fb4848 */
+
+/* TEXT COLOR */
+.ulockd-title-icon,
+.twitter ul li a,
+.text-thm1 {
+  color: #fb4848 !important;
+}
+
+/* TEXT HOVER COLOR */
+nav.navbar.bootsnav.ulockd-menu-style-one ul.dropdown-menu.megamenu-content .content ul.menu-col li:hover a,
+.ulockd-service-fstcol:hover h3,
+.ulockd-l2-bp-btn:hover,
+.ulockd-sitemap > li a:hover,
+.ulockd-shop-item:hover h3 {
+	color: #fb4848;
+}
+nav.navbar.bootsnav.light-red ul.nav > li > a.active,
+nav.navbar.bootsnav.light-red ul.nav > li > a:hover,
+nav.navbar.bootsnav.light-red li.dropdown ul.dropdown-menu > li > a:hover,
+.attr-nav > ul > li > a {
+	color: #fb4848;
+}
+
+/* BACKGROUND COLOR */
+nav.navbar.bootsnav.ulockd-menu-style-two li.dropdown ul.dropdown-menu,
+.attr-nav > ul > li > a span.badge,
+.ulockd-home-two,
+.main-header-nav-two,
+.ulockd-srv-icon,
+.ulockd-srvc-column-two,
+.ulockd-ffact-two .ulockd-icon-let,
+.ulockd-team-mdetails,
+.ulockd-l2-team-mdetails,
+.ulockd-copy-right,
+.ulockd-l2-copy-right,
+.price-tag,
+.ulockd-product-details a.btn.hvr-bounce-to-right:before,
+.ulockd-all-service a.active,
+nav.navbar.bootsnav.ulockd-menu-style-two #navbar-menu,
+.navbar-sticky.navbar-scrollspy.ulockd-menu-style-two,
+.ulockd-bgthm {
+	background-color: #fb4848;
+}
+.ui-datepicker-header.ui-widget-header.ui-helper-clearfix.ui-corner-all, 
+.ui-timepicker-list .ui-timepicker-selected:hover, 
+.ui-timepicker-list li:hover, 
+li.ui-timepicker-selected {
+	background-color: #fb4848;
+
+}
+
+/* HOVER BACKGROUND COLOR */
+.ulockd-social-linked-two a:hover,
+.form-group.ulockd-contact-btn:hover button,
+.ulockd-tag-list-details a:hover {
+	background: #fb4848;
+}
+.masonry-filter a.active,
+.masonry-filter a:active,
+.masonry-filter a:hover,
+.masonry-filter a:focus {
+	background-color: #fb4848;
+}
+
+/* BACKGROUND COLOR TRANSPARENT */
+.ulockd-ap-service-two::before,
+.ulockd-coming-soon::before,
+.ulockd-uconctruction::before,
+.ulockd-icd-layer::before,
+.ulockd-frst-divider-l2::after {
+	background-color: rgba(251, 72, 72, 0.8);
+}
+.ulockd-frst-divider::before,
+.ulockd-gallery-thumb .layer,
+.ulockd-gallery-thumb-l2 .layer {
+	background-color: rgba(251, 72, 72, 0.9);
+}
+
+/* BUTTON TEMPALTE COLOR */
+.ulockd-btn-thm {
+  background-color: #fb4848;
+  border-color: #fb4848;
+}
+
+/* BORDER TEMPALTE COLOR */
+.ulockd-all-service a.active {
+	border-color:  #fb4848;
+}
+.ulockd-service-fstcol::before {
+    border-bottom: 80px solid #fb4848;
+}
+.ulockd-l2-bp-btn:hover,
+.ulockd-partner-two {
+	border-bottom: 1px solid #fb4848;
+}

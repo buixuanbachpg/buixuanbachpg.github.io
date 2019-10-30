@@ -1,0 +1,119 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 28/02/2017 11:26
+  */
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-hose-1:before { content: "\f100"; }
+.flaticon-hose:before { content: "\f101"; }
+.flaticon-filter:before { content: "\f102"; }
+.flaticon-car-chassis:before { content: "\f103"; }
+.flaticon-chassis:before { content: "\f104"; }
+.flaticon-exhaust-1:before { content: "\f105"; }
+.flaticon-seat-belt-on-silhouette:before { content: "\f106"; }
+.flaticon-seat-belt-1:before { content: "\f107"; }
+.flaticon-seat-belt:before { content: "\f108"; }
+.flaticon-cell-phone:before { content: "\f109"; }
+.flaticon-person:before { content: "\f10a"; }
+.flaticon-left-arrow:before { content: "\f10b"; }
+.flaticon-arrow-pointing-to-right:before { content: "\f10c"; }
+.flaticon-location-pin:before { content: "\f10d"; }
+.flaticon-web-page-home:before { content: "\f10e"; }
+.flaticon-message-closed-envelope:before { content: "\f10f"; }
+.flaticon-transport:before { content: "\f110"; }
+.flaticon-bound:before { content: "\f111"; }
+.flaticon-automobile-steering-wheel:before { content: "\f112"; }
+.flaticon-car-battery-charging:before { content: "\f113"; }
+.flaticon-people:before { content: "\f114"; }
+.flaticon-auto-repair-service:before { content: "\f115"; }
+.flaticon-coil-bound-notebook:before { content: "\f116"; }
+.flaticon-exhaust:before { content: "\f117"; }
+.flaticon-battery-1:before { content: "\f118"; }
+.flaticon-car-painting:before { content: "\f119"; }
+.flaticon-link-button:before { content: "\f11a"; }
+.flaticon-car-and-radar-security:before { content: "\f11b"; }
+.flaticon-steering-wheel-2:before { content: "\f11c"; }
+.flaticon-truck-wheel:before { content: "\f11d"; }
+.flaticon-car-steering-wheel:before { content: "\f11e"; }
+.flaticon-phone-receiver:before { content: "\f11f"; }
+.flaticon-speed-meter:before { content: "\f120"; }
+.flaticon-worldwide-transmissions:before { content: "\f121"; }
+.flaticon-social:before { content: "\f122"; }
+.flaticon-home:before { content: "\f123"; }
+.flaticon-gas-station-hose:before { content: "\f124"; }
+.flaticon-car-wash-machine:before { content: "\f125"; }
+.flaticon-zero-emission-badge:before { content: "\f126"; }
+.flaticon-envelope-1:before { content: "\f127"; }
+.flaticon-unlink-symbol:before { content: "\f128"; }
+.flaticon-thumbs-up-hand-symbol:before { content: "\f129"; }
+.flaticon-play-button-1:before { content: "\f12a"; }
+.flaticon-map-marker-point:before { content: "\f12b"; }
+.flaticon-instructor-lecture-with-sceen-projection-tool:before { content: "\f12c"; }
+.flaticon-brake-disk:before { content: "\f12d"; }
+.flaticon-car-wash:before { content: "\f12e"; }
+.flaticon-medal:before { content: "\f12f"; }
+.flaticon-painting:before { content: "\f130"; }
+.flaticon-inspection:before { content: "\f131"; }
+.flaticon-mechanic:before { content: "\f132"; }
+.flaticon-clutch:before { content: "\f133"; }
+.flaticon-concrete-mixer:before { content: "\f134"; }
+.flaticon-electric-car:before { content: "\f135"; }
+.flaticon-trophy:before { content: "\f136"; }
+.flaticon-car-1:before { content: "\f137"; }
+.flaticon-gas-station:before { content: "\f138"; }
+.flaticon-piston:before { content: "\f139"; }
+.flaticon-car:before { content: "\f13a"; }
+.flaticon-steering-wheel-1:before { content: "\f13b"; }
+.flaticon-suspension:before { content: "\f13c"; }
+.flaticon-air-conditioner-2:before { content: "\f13d"; }
+.flaticon-oil-1:before { content: "\f13e"; }
+.flaticon-air-conditioner-1:before { content: "\f13f"; }
+.flaticon-oil:before { content: "\f140"; }
+.flaticon-disc-brake:before { content: "\f141"; }
+.flaticon-battery:before { content: "\f142"; }
+.flaticon-envelope:before { content: "\f143"; }
+.flaticon-chat:before { content: "\f144"; }
+.flaticon-bounding-box:before { content: "\f145"; }
+.flaticon-steering-wheel:before { content: "\f146"; }
+.flaticon-valve:before { content: "\f147"; }
+.flaticon-play-button:before { content: "\f148"; }
+.flaticon-clock-1:before { content: "\f149"; }
+.flaticon-plus:before { content: "\f14a"; }
+.flaticon-clock:before { content: "\f14b"; }
+.flaticon-presentation-1:before { content: "\f14c"; }
+.flaticon-presentation:before { content: "\f14d"; }
+.flaticon-speedometer:before { content: "\f14e"; }
+.flaticon-focus-2:before { content: "\f14f"; }
+.flaticon-focus-1:before { content: "\f150"; }
+.flaticon-focus:before { content: "\f151"; }
+.flaticon-wheel-alignment:before { content: "\f152"; }
+.flaticon-air-conditioner:before { content: "\f153"; }: "\f14d"; }
+.flaticon-079-speedometer:before { content: "\f14e"; }
+.flaticon-080-focus-2:before { content: "\f14f"; }
+.flaticon-081-focus-1:before { content: "\f150"; }
+.flaticon-082-focus:before { content: "\f151"; }
+.flaticon-083-wheel-alignment:before { content: "\f152"; }
+.flaticon-084-air-conditioner:before { content: "\f153"; }
